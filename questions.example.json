@@ -1,0 +1,16 @@
+{
+    "truths": [
+        {
+            "id": 1,
+            "question": "Example truth question",
+            "rating": "pg"
+        }
+    ],
+    "dares": [
+        {
+            "id": 1,
+            "dare": "Example dare challenge",
+            "rating": "pg"
+        }
+    ]
+}

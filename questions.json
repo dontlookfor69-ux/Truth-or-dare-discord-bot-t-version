@@ -1,0 +1,1452 @@
+{
+  "truths": [
+    {
+      "id": "a1b2c3d",
+      "question": "What is your most ticklish spot?",
+      "rating": "pg"
+    },
+    {
+      "id": "e4f5g6h",
+      "question": "Have you ever laughed so hard from being tickled that you cried?",
+      "rating": "pg"
+    },
+    {
+      "id": "i7j8k9l",
+      "question": "If you had to be tickled for 5 minutes straight, where would you choose?",
+      "rating": "pg13"
+    },
+    {
+      "id": "m0n1o2p",
+      "question": "Who is the most ticklish person you know?",
+      "rating": "pg"
+    },
+    {
+      "id": "q3r4s5t",
+      "question": "Do you have ticklish feet?",
+      "rating": "pg"
+    },
+    {
+      "id": "u6v7w8x",
+      "question": "What is the worst time you have ever been tickled?",
+      "rating": "pg13"
+    },
+    {
+      "id": "y9z0a1b",
+      "question": "On a scale of 1-10, how ticklish are you?",
+      "rating": "pg"
+    },
+    {
+      "id": "c2d3e4f",
+      "question": "Do you enjoy tickling others?",
+      "rating": "pg"
+    },
+    {
+      "id": "g5h6i7j",
+      "question": "Have you ever accidentally kicked someone while being tickled?",
+      "rating": "pg"
+    },
+    {
+      "id": "k8l9m0n",
+      "question": "What is your 'safe word' during a tickle fight?",
+      "rating": "pg13"
+    },
+    {
+      "id": "o1p2q3r",
+      "question": "Would you rather be tickled on your feet or your ribs?",
+      "rating": "pg"
+    },
+    {
+      "id": "s4t5u6v",
+      "question": "Have you ever been tickled in public?",
+      "rating": "pg13"
+    },
+    {
+      "id": "w7x8y9z",
+      "question": "What is the longest you have ever been tickled?",
+      "rating": "pg"
+    },
+    {
+      "id": "a0b1c2d",
+      "question": "Do you get more ticklish when you are tired?",
+      "rating": "pg"
+    },
+    {
+      "id": "e3f4g5h",
+      "question": "Is your neck ticklish?",
+      "rating": "pg"
+    },
+    {
+      "id": "i6j7k8l",
+      "question": "Have you ever tied someone up to tickle them?",
+      "rating": "r"
+    },
+    {
+      "id": "m9n0o1p",
+      "question": "What item would you use to tickle someone?",
+      "rating": "pg"
+    },
+    {
+      "id": "q2r3s4t",
+      "question": "Do you think tickling is a form of torture?",
+      "rating": "pg13"
+    },
+    {
+      "id": "u5v6w7x",
+      "question": "Have you ever peed your pants from being tickled?",
+      "rating": "r"
+    },
+    {
+      "id": "y8z9a0b",
+      "question": "Who would you want to tickle the most?",
+      "rating": "pg"
+    },
+    {
+      "id": "c1d2e3f",
+      "question": "Are your armpits ticklish?",
+      "rating": "pg"
+    },
+    {
+      "id": "g4h5i6j",
+      "question": "Do you prefer being the tickler ('ler') or the one being tickled ('lee')?",
+      "rating": "pg13"
+    },
+    {
+      "id": "k7l8m9n",
+      "question": "Have you ever begged someone to stop tickling you?",
+      "rating": "pg"
+    },
+    {
+      "id": "o0p1q2r",
+      "question": "What spot makes you laugh the loudest?",
+      "rating": "pg"
+    },
+    {
+      "id": "s3t4u5v",
+      "question": "Have you ever used tickling as revenge?",
+      "rating": "pg13"
+    },
+    {
+      "id": "w6x7y8z",
+      "question": "Are your thighs ticklish?",
+      "rating": "pg13"
+    },
+    {
+      "id": "a9b0c1d",
+      "question": "Have you ever been tickled while pinned down?",
+      "rating": "r"
+    },
+    {
+      "id": "e2f3g4h",
+      "question": "Do you find feathers or fingers more effective on you?",
+      "rating": "pg13"
+    },
+    {
+      "id": "i5j6k7l",
+      "question": "Have you ever lost your breath from laughing during tickling?",
+      "rating": "pg"
+    },
+    {
+      "id": "m8n9o0p",
+      "question": "Is your belly/stomach your weak spot?",
+      "rating": "pg"
+    },
+    {
+      "id": "q1r2s3t",
+      "question": "Have you ever had a tickle dream?",
+      "rating": "pg13"
+    },
+    {
+      "id": "u4v5w6x",
+      "question": "Do you like raspberry tickles (blowing on skin)?",
+      "rating": "pg"
+    },
+    {
+      "id": "y7z8a9b",
+      "question": "Have you ever been tickled with a hairbrush?",
+      "rating": "pg13"
+    },
+    {
+      "id": "c0d1e2f",
+      "question": "Are your knees ticklish?",
+      "rating": "pg"
+    },
+    {
+      "id": "g3h4i5j",
+      "question": "Have you ever tickled someone until they surrendered?",
+      "rating": "pg13"
+    },
+    {
+      "id": "k6l7m8n",
+      "question": "Do you get goosebumps when someone threatens to tickle you?",
+      "rating": "pg"
+    },
+    {
+      "id": "o9p0q1r",
+      "question": "Have you ever combined tickling with bondage?",
+      "rating": "r"
+    },
+    {
+      "id": "s2t3u4v",
+      "question": "What is your favorite tool for tickling someone else?",
+      "rating": "pg13"
+    },
+    {
+      "id": "w5x6y7z",
+      "question": "Have you ever been tickled in a sensitive area during intimacy?",
+      "rating": "r"
+    },
+    {
+      "id": "a8b9c0d",
+      "question": "Do you think tickling can be arousing?",
+      "rating": "r"
+    },
+    {
+      "id": "e1f2g3h",
+      "question": "Have you ever watched tickling videos online?",
+      "rating": "r"
+    },
+    {
+      "id": "i4j5k6l",
+      "question": "Are your sides/ribs more ticklish than your feet?",
+      "rating": "pg"
+    },
+    {
+      "id": "m7n8o9p",
+      "question": "Have you ever been tickled by more than one person at once?",
+      "rating": "pg13"
+    },
+    {
+      "id": "q0r1s2t",
+      "question": "Do you squirm a lot when tickled?",
+      "rating": "pg"
+    },
+    {
+      "id": "u3v4w5x",
+      "question": "Have you ever used oils or lotion to make tickling worse?",
+      "rating": "r"
+    },
+    {
+      "id": "y6z7a8b",
+      "question": "Is your back ticklish?",
+      "rating": "pg"
+    },
+    {
+      "id": "c9d0e1f",
+      "question": "Have you ever roleplayed a tickle interrogation?",
+      "rating": "r"
+    },
+    {
+      "id": "g2h3i4j",
+      "question": "Do you have a favorite tickle spot on someone else?",
+      "rating": "pg13"
+    },
+    {
+      "id": "k5l6m7n",
+      "question": "Have you ever been tickled while blindfolded?",
+      "rating": "r"
+    },
+    {
+      "id": "o8p9q0r",
+      "question": "Would you let someone tickle you for money?",
+      "rating": "pg13"
+    },
+    {
+      "id": "s1t2u3v",
+      "question": "Have you ever cried 'mercy' during tickling?",
+      "rating": "pg"
+    },
+    {
+      "id": "w4x5y6z",
+      "question": "Do your ears or behind your ears tickle?",
+      "rating": "pg"
+    },
+    {
+      "id": "a7b8c9d",
+      "question": "Have you ever tickled someone as foreplay?",
+      "rating": "r"
+    },
+    {
+      "id": "e0f1g2h",
+      "question": "Are your hips ticklish?",
+      "rating": "pg13"
+    },
+    {
+      "id": "i3j4k5l",
+      "question": "Have you ever been tickled until you couldn't speak?",
+      "rating": "pg13"
+    },
+    {
+      "id": "m6n7o8p",
+      "question": "Do you like light tickles or rough ones better?",
+      "rating": "pg13"
+    },
+    {
+      "id": "q9r0s1t",
+      "question": "Have you ever faked being ticklish to encourage someone?",
+      "rating": "pg13"
+    },
+    {
+      "id": "u2v3w4x",
+      "question": "Would you join a tickle fight party?",
+      "rating": "r"
+    },
+    {
+      "id": "y5z6a7b",
+      "question": "Have you ever been tickled in your inner thighs?",
+      "rating": "r"
+    },
+    {
+      "id": "c8d9e0f",
+      "question": "Do you think you could endure 10 minutes of nonstop tickling?",
+      "rating": "pg13"
+    },
+    {
+      "id": "g1h2i3j",
+      "question": "Are you ticklish on your genitalia?",
+      "rating": "r"
+    },
+    {
+      "id": "k4l5m6n",
+      "question": "What bondage position have you always wanted to try for tickling?",
+      "rating": "r"
+    },
+    {
+      "id": "o7p8q9r",
+      "question": "Are you a lee, ler, or switch?",
+      "rating": "pg13"
+    },
+    {
+      "id": "s0t1u2v",
+      "question": "Have you ever orgasmed purely from being tickled?",
+      "rating": "r"
+    },
+    {
+      "id": "w3x4y5z",
+      "question": "Does anticipation/teasing make you more ticklish?",
+      "rating": "pg13"
+    },
+    {
+      "id": "a6b7c8d",
+      "question": "Have you ever used an electric toothbrush as a tickle tool?",
+      "rating": "r"
+    },
+    {
+      "id": "e9f0g1h",
+      "question": "What is your favorite restraint method for tickling (stocks, spread-eagle, hogtie, etc.)?",
+      "rating": "r"
+    },
+    {
+      "id": "i2j3k4l",
+      "question": "Have you ever combined tickling with orgasm denial/edging?",
+      "rating": "r"
+    },
+    {
+      "id": "m5n6o7p",
+      "question": "Are your nipples ticklish, and does it arouse you?",
+      "rating": "r"
+    },
+    {
+      "id": "q8r9s0t",
+      "question": "Have you ever tickled someone’s genitals directly?",
+      "rating": "r"
+    },
+    {
+      "id": "u1v2w3x",
+      "question": "Do you prefer soft, teasing tickles or intense, relentless ones?",
+      "rating": "pg13"
+    },
+    {
+      "id": "y4z5a6b",
+      "question": "Have you ever been in stocks for tickling?",
+      "rating": "r"
+    },
+    {
+      "id": "c7d8e9f",
+      "question": "What’s the most embarrassing sound you make when tickled?",
+      "rating": "pg13"
+    },
+    {
+      "id": "g0h1i2j",
+      "question": "Have you ever roleplayed as a captive being interrogated via tickling?",
+      "rating": "r"
+    },
+    {
+      "id": "k3l4m5n",
+      "question": "Does being blindfolded heighten the tickling sensation for you?",
+      "rating": "r"
+    },
+    {
+      "id": "o6p7q8r",
+      "question": "Have you ever used baby oil or lotion to increase sensitivity?",
+      "rating": "r"
+    },
+    {
+      "id": "s9t0u1v",
+      "question": "What’s your ultimate tickle fantasy?",
+      "rating": "r"
+    },
+    {
+      "id": "w2x3y4z",
+      "question": "Have you ever been gang-tickled?",
+      "rating": "r"
+    },
+    {
+      "id": "a5b6c7d",
+      "question": "Do you enjoy tickling as part of aftercare?",
+      "rating": "r"
+    },
+    {
+      "id": "e8f9g0h",
+      "question": "Have you ever tickled someone until they safeworded?",
+      "rating": "r"
+    },
+    {
+      "id": "i1j2k3l",
+      "question": "Is foot tickling your biggest turn-on or turn-off?",
+      "rating": "r"
+    },
+    {
+      "id": "m4n5o6p",
+      "question": "Have you ever incorporated ice with tickling?",
+      "rating": "r"
+    },
+    {
+      "id": "q7r8s9t",
+      "question": "Do you like verbal teasing during tickling?",
+      "rating": "pg13"
+    },
+    {
+      "id": "u0v1w2x",
+      "question": "Have you ever had a tickling session that led directly to sex?",
+      "rating": "r"
+    },
+    {
+      "id": "y3z4a5b",
+      "question": "What’s the longest tickling session you’ve endured or given?",
+      "rating": "pg13"
+    },
+    {
+      "id": "c6d7e8f",
+      "question": "Do you find tickling someone’s soles more intimate than other spots?",
+      "rating": "r"
+    },
+    {
+      "id": "g9h0i1j",
+      "question": "Have you ever used silk scarves or soft brushes on sensitive areas?",
+      "rating": "r"
+    },
+    {
+      "id": "k2l3m4n",
+      "question": "Are you more turned on by giving or receiving tickles?",
+      "rating": "r"
+    },
+    {
+      "id": "o5p6q7r",
+      "question": "Have you ever tickled someone while they were tied to a bed?",
+      "rating": "r"
+    },
+    {
+      "id": "s8t9u0v",
+      "question": "Does the sound of someone else’s laughter arouse you?",
+      "rating": "r"
+    },
+    {
+      "id": "w1x2y3z",
+      "question": "Have you ever used a feather on someone’s inner thighs or groin?",
+      "rating": "r"
+    },
+    {
+      "id": "a4b5c6d",
+      "question": "Do you prefer tickling clothed or bare skin?",
+      "rating": "r"
+    },
+    {
+      "id": "e7f8g9h",
+      "question": "Have you ever been tickled as punishment in a kink dynamic?",
+      "rating": "r"
+    },
+    {
+      "id": "i0j1k2l",
+      "question": "What spot on you would drive you absolutely insane if tickled for an hour?",
+      "rating": "r"
+    },
+    {
+      "id": "m3n4o5p",
+      "question": "Have you ever watched professional tickling content?",
+      "rating": "r"
+    },
+    {
+      "id": "q6r7s8t",
+      "question": "Do you like being tickled right after an orgasm when you’re sensitive?",
+      "rating": "r"
+    },
+    {
+      "id": "u9v0w1x",
+      "question": "Have you ever used tickling to make someone beg sexually?",
+      "rating": "r"
+    },
+    {
+      "id": "y2z3a4b",
+      "question": "Is there a specific outfit that makes you want to tickle or be tickled?",
+      "rating": "r"
+    },
+    {
+      "id": "c5d6e7f",
+      "question": "Have you ever combined tickling with sensory deprivation?",
+      "rating": "r"
+    },
+    {
+      "id": "g8h9i0j",
+      "question": "Do you think you could stay completely silent during intense tickling?",
+      "rating": "pg13"
+    },
+    {
+      "id": "k1l2m3n",
+      "question": "Have you ever tickled someone’s neck with your mouth or breath?",
+      "rating": "r"
+    },
+    {
+      "id": "o4p5q6r",
+      "question": "What’s the most vulnerable position you’ve been tickled in?",
+      "rating": "r"
+    },
+    {
+      "id": "s7t8u9v",
+      "question": "Do you enjoy tickle fights that turn sexual?",
+      "rating": "r"
+    },
+    {
+      "id": "w0x1y2z",
+      "question": "Have you ever used a safe word because the tickling was too much?",
+      "rating": "pg13"
+    },
+    {
+      "id": "a3b4c5d",
+      "question": "Are your toes individually ticklish?",
+      "rating": "pg13"
+    },
+    {
+      "id": "e6f7g8h",
+      "question": "Have you ever tickled someone until they were breathless and aroused?",
+      "rating": "r"
+    },
+    {
+      "id": "i9j0k1l",
+      "question": "Do you like being tickled slowly and teasingly over clothes first?",
+      "rating": "r"
+    },
+    {
+      "id": "m2n3o4p",
+      "question": "Have you ever roleplayed a ‘tickle monster’ scenario?",
+      "rating": "r"
+    },
+    {
+      "id": "q5r6s7t",
+      "question": "What’s your favorite verbal tease to use or hear during tickling?",
+      "rating": "r"
+    },
+    {
+      "id": "u8v9w0x",
+      "question": "Have you ever been tickled in a way that made you completely submit?",
+      "rating": "r"
+    },
+    {
+      "id": "y1z2a3b",
+      "question": "Have you ever done a CNC scene where the lee was tickled despite begging 'no' and 'stop' (safe word respected)?",
+      "rating": "r"
+    },
+    {
+      "id": "c4d5e6f",
+      "question": "In a CNC tickle roleplay, have you ever 'forced' a lee to orgasm through tickling alone?",
+      "rating": "r"
+    },
+    {
+      "id": "g7h8i9j",
+      "question": "Have you ever roleplayed a home invasion or kidnapping that ended in prolonged tickle torture?",
+      "rating": "r"
+    },
+    {
+      "id": "k0l1m2n",
+      "question": "Do you fantasize about CNC tickling where the lee is tickled until they wet themselves from laughter and overstimulation?",
+      "rating": "r"
+    },
+    {
+      "id": "o3p4q5r",
+      "question": "Have you ever combined CNC tickling with forced exposure or stripping as part of the scene?",
+      "rating": "r"
+    },
+    {
+      "id": "s6t7u8v",
+      "question": "As a ler in CNC, have you ever ignored pleas and continued tickling a lee's most sensitive spots until they broke?",
+      "rating": "r"
+    },
+    {
+      "id": "w9x0y1z",
+      "question": "Have you ever roleplayed blackmail leading to non-consensual (in-scene) tickling?",
+      "rating": "r"
+    },
+    {
+      "id": "a2b3c4d",
+      "question": "Do you enjoy CNC scenarios where the lee is tickled while penetrated or edged?",
+      "rating": "r"
+    },
+    {
+      "id": "e5f6g7h",
+      "question": "Have you ever set up a CNC tickle ambush where the lee was genuinely surprised and 'overpowered'?",
+      "rating": "r"
+    },
+    {
+      "id": "i8j9k0l",
+      "question": "In CNC tickling, have you ever used gags to muffle the lee's protests while continuing?",
+      "rating": "r"
+    },
+    {
+      "id": "m1n2o3p",
+      "question": "Have you ever fantasized about being tickled endlessly in a CNC scenario with no escape until the ler is satisfied?",
+      "rating": "r"
+    },
+    {
+      "id": "q4r5s6t",
+      "question": "Do you like CNC tickle roleplay where the ler threatens worse spots if the lee doesn't submit?",
+      "rating": "r"
+    },
+    {
+      "id": "u7v8w9x",
+      "question": "Have you ever incorporated CNC tickling into a full D/s dynamic with punishment tickles?",
+      "rating": "r"
+    },
+    {
+      "id": "y0z1a2b",
+      "question": "As a lee in CNC, have you ever been tickled until you 'confessed' something humiliating?",
+      "rating": "r"
+    },
+    {
+      "id": "c3d4e5f",
+      "question": "Have you ever done CNC tickling combined with forced multiple orgasms?",
+      "rating": "r"
+    }
+  ],
+  "dares": [
+    {
+      "id": "g6h7i8j",
+      "dare": "Let someone tickle your feet for 30 seconds (or imagine it vividly).",
+      "rating": "pg"
+    },
+    {
+      "id": "k9l0m1n",
+      "dare": "Post a picture of your bare feet.",
+      "rating": "pg13"
+    },
+    {
+      "id": "o2p3q4r",
+      "dare": "Listen to a tickle laughter audio for 1 minute without laughing.",
+      "rating": "pg"
+    },
+    {
+      "id": "s5t6u7v",
+      "dare": "Describe exactly how your most ticklish spot feels when touched.",
+      "rating": "pg13"
+    },
+    {
+      "id": "w8x9y0z",
+      "dare": "Pretend you are being tickled for 20 seconds on voice chat.",
+      "rating": "pg"
+    },
+    {
+      "id": "a1b2c3e",
+      "dare": "Let the group decide a spot for you to be 'tickled' virtually.",
+      "rating": "pg"
+    },
+    {
+      "id": "f4g5h6i",
+      "dare": "Reveal your most sensitive spot.",
+      "rating": "pg13"
+    },
+    {
+      "id": "j7k8l9m",
+      "dare": "Tickle yourself for 10 seconds and try not to laugh.",
+      "rating": "pg"
+    },
+    {
+      "id": "n0o1p2q",
+      "dare": "Video call and show your reaction to being tickled (if safe/comfortable).",
+      "rating": "r"
+    },
+    {
+      "id": "r3s4t5u",
+      "dare": "Send a voice note of your 'tickle laugh'.",
+      "rating": "pg"
+    },
+    {
+      "id": "v6w7x8y",
+      "dare": "Change your nickname to 'Tickle Monster' for 1 hour.",
+      "rating": "pg"
+    },
+    {
+      "id": "z9a0b1c",
+      "dare": "Write a short story about being tickled.",
+      "rating": "pg"
+    },
+    {
+      "id": "d2e3f4g",
+      "dare": "Confess your weirdest tickle fantasy.",
+      "rating": "r"
+    },
+    {
+      "id": "h5i6j7k",
+      "dare": "Let someone choose a feather or a brush to tickle you with (virtually).",
+      "rating": "pg"
+    },
+    {
+      "id": "l8m9n0o",
+      "dare": "Laugh uncontrollably for 30 seconds.",
+      "rating": "pg"
+    },
+    {
+      "id": "p1q2r3s",
+      "dare": "Describe the last time you were tickled in detail.",
+      "rating": "pg13"
+    },
+    {
+      "id": "t4u5v6w",
+      "dare": "Rate everyone in the chat on how ticklish they look.",
+      "rating": "pg"
+    },
+    {
+      "id": "x7y8z9a",
+      "dare": "Admit if you enjoy being tickled.",
+      "rating": "pg"
+    },
+    {
+      "id": "b0c1d2e",
+      "dare": "Act out being tickled by the invisible tickle monster.",
+      "rating": "pg"
+    },
+    {
+      "id": "f3g4h5i",
+      "dare": "Let the chat choose a spot you have to protect from being tickled.",
+      "rating": "pg"
+    },
+    {
+      "id": "j6k7l8m",
+      "dare": "Send a voice note begging for mercy while pretending to be tickled.",
+      "rating": "pg13"
+    },
+    {
+      "id": "n9o0p1q",
+      "dare": "Post a close-up photo of your most ticklish spot (keep it appropriate).",
+      "rating": "pg13"
+    },
+    {
+      "id": "r2s3t4u",
+      "dare": "Try to stay silent while the group describes tickling you for 1 minute.",
+      "rating": "pg"
+    },
+    {
+      "id": "v5w6x7y",
+      "dare": "Tickle your own ribs for 15 seconds on camera or voice.",
+      "rating": "pg"
+    },
+    {
+      "id": "z8a9b0c",
+      "dare": "Describe in detail how you would tickle your crush.",
+      "rating": "pg13"
+    },
+    {
+      "id": "d1e2f3g",
+      "dare": "Let the group vote on a tool (feather, brush, fingers) and act out being tickled with it.",
+      "rating": "pg"
+    },
+    {
+      "id": "h4i5j6k",
+      "dare": "Record yourself saying 'I'm extremely ticklish' 10 times while laughing.",
+      "rating": "pg"
+    },
+    {
+      "id": "l7m8n9o",
+      "dare": "Share your favorite tickle spot to be tickled on.",
+      "rating": "pg13"
+    },
+    {
+      "id": "p0q1r2s",
+      "dare": "Pretend you're tied up and being tickled for 30 seconds.",
+      "rating": "r"
+    },
+    {
+      "id": "t3u4v5w",
+      "dare": "Send a voice note of your best evil 'tickle laugh'.",
+      "rating": "pg"
+    },
+    {
+      "id": "x6y7z8a",
+      "dare": "Write a short poem about tickling.",
+      "rating": "pg"
+    },
+    {
+      "id": "b9c0d1e",
+      "dare": "Let someone roleplay tickling you in chat for 2 minutes.",
+      "rating": "pg13"
+    },
+    {
+      "id": "f2g3h4i",
+      "dare": "Describe how it feels when someone raspberries your belly.",
+      "rating": "pg13"
+    },
+    {
+      "id": "j5k6l7m",
+      "dare": "Act out trying to escape a tickle attack.",
+      "rating": "pg"
+    },
+    {
+      "id": "n8o9p0q",
+      "dare": "Reveal if you'd let someone use oil/lotion before tickling you.",
+      "rating": "r"
+    },
+    {
+      "id": "r1s2t3u",
+      "dare": "Post a meme about being ticklish.",
+      "rating": "pg"
+    },
+    {
+      "id": "v4w5x6y",
+      "dare": "Confess a celebrity you'd love to tickle or be tickled by.",
+      "rating": "pg13"
+    },
+    {
+      "id": "z7a8b9c",
+      "dare": "Blindfold dare: imagine being blindfolded and tickled for 20 seconds.",
+      "rating": "r"
+    },
+    {
+      "id": "d0e1f2g",
+      "dare": "Send a voice note squealing as if your worst spot is being attacked.",
+      "rating": "pg"
+    },
+    {
+      "id": "h3i4j5k",
+      "dare": "Let the group ask you 3 rapid-fire tickle questions you must answer honestly.",
+      "rating": "pg13"
+    },
+    {
+      "id": "l6m7n8o",
+      "dare": "Describe a full tickle scenario you'd enjoy (keep it tasteful).",
+      "rating": "r"
+    },
+    {
+      "id": "p9q0r1s",
+      "dare": "Tickle your own neck and describe the sensation.",
+      "rating": "pg"
+    },
+    {
+      "id": "t2u3v4w",
+      "dare": "Roleplay being interrogated with tickling for information.",
+      "rating": "r"
+    },
+    {
+      "id": "x5y6z7a",
+      "dare": "Laugh hysterically for 45 seconds straight.",
+      "rating": "pg"
+    },
+    {
+      "id": "b8c9d0e",
+      "dare": "Admit your favorite and least favorite tickle tools.",
+      "rating": "pg13"
+    },
+    {
+      "id": "f1g2h3i",
+      "dare": "Let someone write a short tickle story about you.",
+      "rating": "pg13"
+    },
+    {
+      "id": "j4k5l6m",
+      "dare": "Pretend you're being gang-tickled by the whole group.",
+      "rating": "pg13"
+    },
+    {
+      "id": "n7o8p9q",
+      "dare": "Share a screenshot of a tickle-related search (keep it clean).",
+      "rating": "r"
+    },
+    {
+      "id": "r0s1t2u",
+      "dare": "Describe how ticklish your inner thighs are on a scale and why.",
+      "rating": "r"
+    },
+    {
+      "id": "v3w4x5y",
+      "dare": "Change your profile picture to something tickle-related for 30 minutes.",
+      "rating": "pg"
+    },
+    {
+      "id": "z6a7b8c",
+      "dare": "Voice note: count to 20 while pretending your sides are being squeezed.",
+      "rating": "pg"
+    },
+    {
+      "id": "d9e0f1g",
+      "dare": "Tell the group your safe word and why you chose it.",
+      "rating": "pg13"
+    },
+    {
+      "id": "h2i3j4k",
+      "dare": "Act out being tickled on your hips for 15 seconds.",
+      "rating": "pg"
+    },
+    {
+      "id": "l5m6n7o",
+      "dare": "Confess if tickling ever turned you on.",
+      "rating": "r"
+    },
+    {
+      "id": "p8q9r0s",
+      "dare": "Let the group choose two spots to 'tickle' you simultaneously (virtually).",
+      "rating": "pg13"
+    },
+    {
+      "id": "t1u2v3w",
+      "dare": "Describe the perfect tickle revenge on someone in the chat.",
+      "rating": "pg13"
+    },
+    {
+      "id": "x4y5z6a",
+      "dare": "Record yourself saying 'Don't tickle me there!' in your most panicked voice.",
+      "rating": "pg"
+    },
+    {
+      "id": "b7c8d9e",
+      "dare": "Share your ultimate tickle fantasy in detail.",
+      "rating": "r"
+    },
+    {
+      "id": "f0g1h2i",
+      "dare": "Pretend you're being tickled with a feather all over for 30 seconds.",
+      "rating": "pg13"
+    },
+    {
+      "id": "j3k4l5m",
+      "dare": "End every message with 'I'm super ticklish' for the next 10 messages.",
+      "rating": "pg"
+    },
+    {
+      "id": "n6o7p8q",
+      "dare": "Send a voice note of you moaning and laughing as if being tickled to the edge.",
+      "rating": "r"
+    },
+    {
+      "id": "r9s0t1u",
+      "dare": "Describe in explicit detail how you would tie someone up and tickle them senseless.",
+      "rating": "r"
+    },
+    {
+      "id": "v2w3x4y",
+      "dare": "Record yourself begging to be tickled on your worst spot.",
+      "rating": "r"
+    },
+    {
+      "id": "z5a6b7c",
+      "dare": "Roleplay a full tickle interrogation scene in chat (keep it consensual).",
+      "rating": "r"
+    },
+    {
+      "id": "d8e9f0g",
+      "dare": "Send a voice note of your laughter turning into moans.",
+      "rating": "r"
+    },
+    {
+      "id": "h1i2j3k",
+      "dare": "Describe how you’d use oil and feathers on someone’s feet.",
+      "rating": "r"
+    },
+    {
+      "id": "l4m5n6o",
+      "dare": "Pretend you’re in stocks and being foot-tickled for 1 minute on voice.",
+      "rating": "r"
+    },
+    {
+      "id": "p7q8r9s",
+      "dare": "Confess your most taboo tickle fantasy in detail.",
+      "rating": "r"
+    },
+    {
+      "id": "t0u1v2w",
+      "dare": "Act out being edged with tickling (describe sensations).",
+      "rating": "r"
+    },
+    {
+      "id": "x3y4z5a",
+      "dare": "Send a voice note whispering your favorite teasing phrases as a ler.",
+      "rating": "r"
+    },
+    {
+      "id": "b6c7d8e",
+      "dare": "Describe exactly how you’d tickle someone’s inner thighs and groin area.",
+      "rating": "r"
+    },
+    {
+      "id": "f9g0h1i",
+      "dare": "Record yourself reacting as if being gang-tickled.",
+      "rating": "r"
+    },
+    {
+      "id": "j2k3l4m",
+      "dare": "Write a short erotic tickling story starring yourself.",
+      "rating": "r"
+    },
+    {
+      "id": "n5o6p7q",
+      "dare": "Pretend you’re blindfolded and tickled slowly all over for 45 seconds.",
+      "rating": "r"
+    },
+    {
+      "id": "r8s9t0u",
+      "dare": "Send a voice note of you saying your safe word dramatically after ‘intense’ tickling.",
+      "rating": "pg13"
+    },
+    {
+      "id": "v1w2x3y",
+      "dare": "Describe how you’d tease a lee verbally while tickling their ribs.",
+      "rating": "r"
+    },
+    {
+      "id": "z4a5b6c",
+      "dare": "Act out being tickled post-orgasm when super sensitive.",
+      "rating": "r"
+    },
+    {
+      "id": "d7e8f9g",
+      "dare": "Voice note: count to 30 while pretending your soles are being scratched.",
+      "rating": "pg13"
+    },
+    {
+      "id": "h0i1j2k",
+      "dare": "Share a detailed fantasy involving bondage and prolonged tickling.",
+      "rating": "r"
+    },
+    {
+      "id": "l3m4n5o",
+      "dare": "Pretend you’re hogtied and helplessly tickled for 40 seconds.",
+      "rating": "r"
+    },
+    {
+      "id": "p6q7r8s",
+      "dare": "Send a voice note of your best ‘evil ler’ laugh and threats.",
+      "rating": "pg13"
+    },
+    {
+      "id": "t9u0v1w",
+      "dare": "Describe how tickling someone’s nipples would feel for you.",
+      "rating": "r"
+    },
+    {
+      "id": "x2y3z4a",
+      "dare": "Roleplay being a merciless ler for 2 minutes in chat.",
+      "rating": "r"
+    },
+    {
+      "id": "b5c6d7e",
+      "dare": "Record yourself laughing and begging as if your armpits are under attack.",
+      "rating": "pg13"
+    },
+    {
+      "id": "f8g9h0i",
+      "dare": "Describe your ideal tickling session from start to finish, including aftercare.",
+      "rating": "r"
+    },
+    {
+      "id": "j1k2l3m",
+      "dare": "Roleplay a CNC scene: beg 'no, stop, please' while describing how turned on you are despite 'protesting'.",
+      "rating": "r"
+    },
+    {
+      "id": "n4o5p6q",
+      "dare": "Voice note: act out being ambushed and 'forced' into tickle torture, struggling and pleading.",
+      "rating": "r"
+    },
+    {
+      "id": "r7s8t9u",
+      "dare": "Describe in graphic detail a CNC fantasy where you're tickled until you lose control of your body.",
+      "rating": "r"
+    },
+    {
+      "id": "v0w1x2y",
+      "dare": "Send a voice note of broken laughter and fake sobs as if being tickled past your limits in CNC.",
+      "rating": "r"
+    },
+    {
+      "id": "z3a4b5c",
+      "dare": "Roleplay as a captured lee in CNC: confess humiliating secrets to 'make the tickling stop'.",
+      "rating": "r"
+    },
+    {
+      "id": "d6e7f8g",
+      "dare": "Write an explicit CNC tickle scene where the ler ignores all protests except the safe word.",
+      "rating": "r"
+    },
+    {
+      "id": "h9i0j1k",
+      "dare": "Voice note: moan and laugh while pretending you're being tickled and penetrated at the same time in CNC.",
+      "rating": "r"
+    },
+    {
+      "id": "l2m3n4o",
+      "dare": "Describe how you'd 'force' a lee to orgasm through tickling in a CNC blackmail scenario.",
+      "rating": "r"
+    },
+    {
+      "id": "p5q6r7s",
+      "dare": "Act out being gagged and tickled mercilessly in CNC for 1 minute on voice.",
+      "rating": "r"
+    },
+    {
+      "id": "t8u9v0w",
+      "dare": "Send a voice note of desperate, hysterical begging in a CNC kidnapping tickle fantasy.",
+      "rating": "r"
+    }
+  ],
+  "wyr": [
+    {
+      "id": "x1y2z3a",
+      "question": "Would you rather be tickled on your feet for 10 minutes or your ribs for 5 minutes?",
+      "rating": "pg"
+    },
+    {
+      "id": "b4c5d6e",
+      "question": "Would you rather have to tickle someone else or be tickled yourself?",
+      "rating": "pg"
+    },
+    {
+      "id": "f7g8h9i",
+      "question": "Would you rather be tickled with feathers for an hour or fingers for 20 minutes?",
+      "rating": "pg13"
+    },
+    {
+      "id": "j0k1l2m",
+      "question": "Would you rather be tied spread-eagle and tickled or free but chased and tackled?",
+      "rating": "r"
+    },
+    {
+      "id": "n3o4p5q",
+      "question": "Would you rather tickle someone to orgasm or be tickled to orgasm?",
+      "rating": "r"
+    },
+    {
+      "id": "r6s7t8u",
+      "question": "Would you rather endure foot tickling with oil or armpit tickling with a brush?",
+      "rating": "r"
+    },
+    {
+      "id": "v9w0x1y",
+      "question": "Would you rather be blindfolded during tickling or have to watch in a mirror?",
+      "rating": "r"
+    },
+    {
+      "id": "z2a3b4c",
+      "question": "Would you rather be gang-tickled lightly by many or intensely by one person?",
+      "rating": "r"
+    },
+    {
+      "id": "d5e6f7g",
+      "question": "Would you rather have your worst spot tickled gently forever or intensely for 10 minutes?",
+      "rating": "pg13"
+    },
+    {
+      "id": "h8i9j0k",
+      "question": "Would you rather use tickling as foreplay or aftercare?",
+      "rating": "r"
+    },
+    {
+      "id": "l1m2n3o",
+      "question": "Would you rather be tickled in stocks or hogtied?",
+      "rating": "r"
+    },
+    {
+      "id": "p4q5r6s",
+      "question": "Would you rather tickle someone’s soles or their inner thighs?",
+      "rating": "r"
+    },
+    {
+      "id": "t7u8v9w",
+      "question": "Would you rather have no safe word but short session or safe word but endless?",
+      "rating": "r"
+    },
+    {
+      "id": "x0y1z2a",
+      "question": "Would you rather be tickled clothed or completely naked?",
+      "rating": "r"
+    },
+    {
+      "id": "b3c4d5e",
+      "question": "Would you rather combine tickling with ice or with warmth?",
+      "rating": "r"
+    },
+    {
+      "id": "f6g7h8i",
+      "question": "Would you rather be a strict ler or a bratty lee?",
+      "rating": "pg13"
+    },
+    {
+      "id": "j9k0l1m",
+      "question": "Would you rather be tickled post-orgasm or pre-orgasm?",
+      "rating": "r"
+    },
+    {
+      "id": "n2o3p4q",
+      "question": "Would you rather tickle someone until they cry laughing or until they beg sexually?",
+      "rating": "r"
+    },
+    {
+      "id": "r5s6t7u",
+      "question": "Would you rather have your toes sucked while foot-tickled or ribs squeezed?",
+      "rating": "r"
+    },
+    {
+      "id": "v8w9x0y",
+      "question": "Would you rather roleplay interrogation tickling or tickle monster chase?",
+      "rating": "r"
+    },
+    {
+      "id": "z1a2b3c",
+      "question": "Would you rather do a CNC tickle scene with ignored 'no/stop' or strict safe word only?",
+      "rating": "r"
+    },
+    {
+      "id": "d4e5f6g",
+      "question": "Would you rather be 'forced' to orgasm through tickling in CNC or forced to edge without release?",
+      "rating": "r"
+    },
+    {
+      "id": "h7i8j9k",
+      "question": "Would you rather roleplay CNC kidnapping tickling or CNC blackmail tickling?",
+      "rating": "r"
+    },
+    {
+      "id": "l0m1n2o",
+      "question": "Would you rather be gagged during CNC tickling or have to verbally beg the whole time?",
+      "rating": "r"
+    },
+    {
+      "id": "p3q4r5s",
+      "question": "Would you rather CNC tickle someone until they wet themselves or until they fully submit sexually?",
+      "rating": "r"
+    }
+  ],
+  "nhie": [
+    {
+      "id": "t6u7v8w",
+      "question": "Never have I ever actually enjoyed being tickled.",
+      "rating": "pg"
+    },
+    {
+      "id": "x9y0z1a",
+      "question": "Never have I ever accidentally kicked someone while being tickled.",
+      "rating": "pg"
+    },
+    {
+      "id": "b2c3d4e",
+      "question": "Never have I ever orgasmed from tickling alone.",
+      "rating": "r"
+    },
+    {
+      "id": "f5g6h7i",
+      "question": "Never have I ever used tickling during sex.",
+      "rating": "r"
+    },
+    {
+      "id": "j8k9l0m",
+      "question": "Never have I ever been tied up specifically for tickling.",
+      "rating": "r"
+    },
+    {
+      "id": "n1o2p3q",
+      "question": "Never have I ever watched tickling porn.",
+      "rating": "r"
+    },
+    {
+      "id": "r4s5t6u",
+      "question": "Never have I ever been gang-tickled.",
+      "rating": "r"
+    },
+    {
+      "id": "v7w8x9y",
+      "question": "Never have I ever used oil to make someone more ticklish.",
+      "rating": "r"
+    },
+    {
+      "id": "z0a1b2c",
+      "question": "Never have I ever roleplayed tickle torture.",
+      "rating": "r"
+    },
+    {
+      "id": "d3e4f5g",
+      "question": "Never have I ever been tickled while blindfolded.",
+      "rating": "r"
+    },
+    {
+      "id": "h6i7j8k",
+      "question": "Never have I ever tickled someone’s private areas.",
+      "rating": "r"
+    },
+    {
+      "id": "l9m0n1o",
+      "question": "Never have I ever had a tickling session longer than 30 minutes.",
+      "rating": "pg13"
+    },
+    {
+      "id": "p2q3r4s",
+      "question": "Never have I ever used a safe word during tickling.",
+      "rating": "pg13"
+    },
+    {
+      "id": "t5u6v7w",
+      "question": "Never have I ever been in foot stocks.",
+      "rating": "r"
+    },
+    {
+      "id": "x8y9z0a",
+      "question": "Never have I ever combined tickling with edging.",
+      "rating": "r"
+    },
+    {
+      "id": "b1c2d3e",
+      "question": "Never have I ever laughed until I cried from tickling.",
+      "rating": "pg"
+    },
+    {
+      "id": "f4g5h6i",
+      "question": "Never have I ever tickled someone as revenge in a kink scene.",
+      "rating": "r"
+    },
+    {
+      "id": "j7k8l9m",
+      "question": "Never have I ever been tickled post-orgasm.",
+      "rating": "r"
+    },
+    {
+      "id": "n0o1p2q",
+      "question": "Never have I ever bought a tickling tool (feather, brush, etc.).",
+      "rating": "r"
+    },
+    {
+      "id": "r3s4t5u",
+      "question": "Never have I ever confessed my tickle kink to a partner.",
+      "rating": "r"
+    },
+    {
+      "id": "v6w7x8y",
+      "question": "Never have I ever done a full CNC tickle scene with negotiated non-consent.",
+      "rating": "r"
+    },
+    {
+      "id": "z9a0b1c",
+      "question": "Never have I ever roleplayed CNC tickling involving forced orgasms.",
+      "rating": "r"
+    },
+    {
+      "id": "d2e3f4g",
+      "question": "Never have I ever used CNC tickling as punishment in a dynamic.",
+      "rating": "r"
+    },
+    {
+      "id": "h5i6j7k",
+      "question": "Never have I ever been tickled in CNC until I lost bladder control.",
+      "rating": "r"
+    },
+    {
+      "id": "l8m9n0o",
+      "question": "Never have I ever combined CNC tickling with penetration or toys.",
+      "rating": "r"
+    }
+  ],
+  "paranoia": [
+    {
+      "id": "p1q2r3s",
+      "question": "Who in this server do you think is the most ticklish?",
+      "rating": "pg"
+    },
+    {
+      "id": "t4u5v6w",
+      "question": "Who here would enjoy a tickle torture session the most?",
+      "rating": "pg13"
+    },
+    {
+      "id": "x7y8z9a",
+      "question": "Who has the sexiest tickle laugh?",
+      "rating": "r"
+    },
+    {
+      "id": "b0c1d2e",
+      "question": "Who would make the best merciless ler?",
+      "rating": "r"
+    },
+    {
+      "id": "f3g4h5i",
+      "question": "Who is secretly the biggest lee?",
+      "rating": "pg13"
+    },
+    {
+      "id": "j6k7l8m",
+      "question": "Who would beg the fastest under intense tickling?",
+      "rating": "r"
+    },
+    {
+      "id": "n9o0p1q",
+      "question": "Who has the most ticklish feet in the group?",
+      "rating": "pg13"
+    },
+    {
+      "id": "r2s3t4u",
+      "question": "Who would be the brattiest lee?",
+      "rating": "r"
+    },
+    {
+      "id": "v5w6x7y",
+      "question": "Who do you think has the strongest tickle kink?",
+      "rating": "r"
+    },
+    {
+      "id": "z8a9b0c",
+      "question": "Who would last the longest in a tickle endurance challenge?",
+      "rating": "pg13"
+    },
+    {
+      "id": "d1e2f3g",
+      "question": "Who has the most sensitive ribs?",
+      "rating": "pg"
+    },
+    {
+      "id": "h4i5j6k",
+      "question": "Who would enjoy being tied up and tickled the most?",
+      "rating": "r"
+    },
+    {
+      "id": "l7m8n9o",
+      "question": "Who gives off the strongest switch vibes?",
+      "rating": "pg13"
+    },
+    {
+      "id": "p0q1r2s",
+      "question": "Who would be the most teasing ler?",
+      "rating": "r"
+    },
+    {
+      "id": "t3u4v5w",
+      "question": "Who do you think has tickled someone sexually?",
+      "rating": "r"
+    },
+    {
+      "id": "x6y7z8a",
+      "question": "Who would be the best at ignoring pleas in a CNC tickle scene?",
+      "rating": "r"
+    },
+    {
+      "id": "b9c0d1e",
+      "question": "Who secretly wants to be overpowered and tickled in CNC?",
+      "rating": "r"
+    },
+    {
+      "id": "f2g3h4i",
+      "question": "Who would break fastest in a CNC interrogation tickle?",
+      "rating": "r"
+    }
+  ]
+}
