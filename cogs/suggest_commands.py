@@ -31,15 +31,17 @@ def add_to_main_questions(text, type_str, rating):
     except:
         data = {"truths": [], "dares": []}
 
-    if type_str.lower() == "truth":
+    type_str = type_str.lower()
+    
+    if type_str == "truth":
         category = "truths"
-    elif type_str.lower() == "dare":
+    elif type_str == "dare":
         category = "dares"
-    elif type_str.lower() == "wyr":
+    elif type_str == "wyr":
         category = "wyr"
-    elif type_str.lower() == "nhie":
+    elif type_str == "nhie":
         category = "nhie"
-    elif type_str.lower() == "paranoia":
+    elif type_str == "paranoia":
         category = "paranoia"
     else:
         category = "truths" # Fallback
